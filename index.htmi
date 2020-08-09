@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title>HiHi</title>
+  </head>
+  <body>
+    
+    <section>
+      <div class="first">
+        <h1>歡迎</h1>
+        <p>這是我做的第一個網站</p>
+        <a class="btn" href="#">點我獲得更多資訊</a>
+      </div>
+    </section>
+    
+  </body>
+</html>
