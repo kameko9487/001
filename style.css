@@ -1,6 +1,6 @@
 .btn{
   background-color: #0467ff;
-  color: white;
+  color: #fffff;
   padding: 10px 25px;
   border:none;
   border-radius: 3px;
@@ -8,5 +8,5 @@
 }
 
 .btn:hover{
-    background-color: block;
+    background-color: #00000;
 }
